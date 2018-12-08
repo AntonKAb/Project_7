@@ -1,0 +1,7 @@
+NAME           TDS    INT   YDS     RTG  
+Ryan Mallet     9     10    1835   66.8  
+Ryan Nassib     1     0     128    152.1
+Thad Lewis      5     4     1296   81.4
+Mark Sanchez    0     1     100    53.7
+Matt Moore      45    36    6938   81.2
+Matt Barkley    2     0     232    117.4
